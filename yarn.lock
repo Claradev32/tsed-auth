@@ -645,10 +645,10 @@
   dependencies:
     tslib "2.3.1"
 
-"@tsed/cli-plugin-jest@3.20.8":
-  version "3.20.8"
-  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-jest/-/cli-plugin-jest-3.20.8.tgz#5aeea3092f11c8838985618aeb8e6a770f98b48f"
-  integrity sha512-GS0n/Ni2+IYNbm0TZZr8kovg4qcBCj7i/LZzPMSZvZQUlac9Nz/5J1u3tdHpJkvCyvSPeuO8rNXMvUueDeQx6Q==
+"@tsed/cli-plugin-jest@3.26.3":
+  version "3.26.3"
+  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-jest/-/cli-plugin-jest-3.26.3.tgz#240dec3c0b2623ecf1b0e216487900fa374ea007"
+  integrity sha512-YOTMtUpY649G2qIqsZwRToT62seMHXDdLYJhXwN8qjDhvRrFjGsowRlCqkCaR780aRz+JF7z0dgfuFL/iAKteA==
   dependencies:
     tslib "2.3.1"
 
